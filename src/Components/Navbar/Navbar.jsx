@@ -10,7 +10,7 @@ import jack_img from "../../assets/jack.png";
 import { Link } from "react-router-dom";
 
 const Navbar = ({ setSidebar }) => {
-  const sidebar_toggle = (e) => {
+  const sidebar_toggle = () => {
     setSidebar((prev) => (prev === false ? true : false));
   };
 
