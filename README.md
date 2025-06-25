@@ -90,7 +90,6 @@ youtube-app/
 ## Usage
 
 - **Home Page**: Displays popular or trending videos.
-- **Search**: Use the search bar in the Navbar to find videos by keywords.
 - **Video Detail**: Click a video card to navigate to a detail page showing the embedded YouTube player, video description, channel information, and related videos.
 - **Responsive Design**: The layout adjusts for various screen sizes.
 
