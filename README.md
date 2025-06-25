@@ -59,8 +59,6 @@ youtube-app/
 
    ```bash
    npm install
-   # or
-   yarn install
    ```
 
 3. **Configure environment variables**  
