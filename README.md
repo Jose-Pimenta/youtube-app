@@ -43,7 +43,7 @@ youtube-app/
 ## Prerequisites
 
 - Node.js (v14 or later recommended)
-- npm or yarn
+- npm
 - A YouTube Data API key
 
 ## Installation
