@@ -9,6 +9,7 @@ A YouTube-like video streaming platform clone built with **React**, **Vite**, an
 - 🎥 View detailed video pages with embedded YouTube player
 - 📃 Display video metadata: title, description, channel info, view count, likes
 - 📋 Related videos sidebar
+- 📱 Responsive design for mobile and desktop
 
 ## Tech Stack
 
