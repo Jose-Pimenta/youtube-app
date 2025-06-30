@@ -25,20 +25,21 @@ A YouTube-like video streaming platform clone built with **React**, **Vite**, an
 
 ```
 youtube-app/
-├── public/                      # Static assets (favicons, images)
+├── public/                      
 ├── src/
-│   ├── components/              # Reusable UI components (Navbar, VideoCard, VideoList, etc.)
-│   ├── pages/                   # Page components (Home, SearchResults, VideoDetail)
-│   ├── services/                # API request definitions (api.js)
-│   ├── App.jsx                  # Root component with routes
-│   ├── main.jsx                 # React entry point
-│   └── assets/                  # Static media and styles
-├── .eslintrc.cjs                # ESLint configuration
-├── .gitignore                   # Files and folders to ignore in Git
-├── index.html                   # Vite HTML template
-├── package.json                 # Project metadata and dependencies
-├── vite.config.js               # Vite configuration
-└── README.md                    # This file
+│   ├── components/
+             
+│   ├── pages/                   
+│   ├── services/                
+│   ├── App.jsx                  
+│   ├── main.jsx                 
+│   └── assets/                  
+├── .eslintrc.cjs                
+├── .gitignore                   
+├── index.html                   
+├── package.json                 
+├── vite.config.js               
+└── README.md                    
 ```
 
 ## Prerequisites
