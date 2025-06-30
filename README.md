@@ -28,16 +28,34 @@ youtube-app/
 ├── public/                      
 ├── src/
 │   ├── components/
-             
-│   ├── pages/                   
-│   ├── services/                
-│   ├── App.jsx                  
+│   │   ├── Feed.jsx
+│   │   ├── Feed.css
+│   │   ├── Navbar.jsx
+│   │   ├── Navbar.css
+│   │   ├── PlayVideo.jsx
+│   │   ├── PlayVideo.css
+│   │   ├── Recommended.jsx
+│   │   ├── Recommended.css
+│   │   ├── Sidebar.jsx
+│   │   └── Sidebar.css            
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── Home.css
+│   │   ├── Video.jsx
+│   │   └── Video.css                                   
+│   ├── App.jsx
+│   ├── App.css
+│   ├── data.jsx
+│   ├── index.css                  
 │   ├── main.jsx                 
 │   └── assets/                  
 ├── .eslintrc.cjs                
-├── .gitignore                   
+├── .gitignore
+├── eslint.config.js                   
 ├── index.html                   
-├── package.json                 
+├── package.json
+├── package-lock.json
+├── vercel.json            
 ├── vite.config.js               
 └── README.md                    
 ```
